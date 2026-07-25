@@ -1,0 +1,3 @@
+Node.js Core Backend - Day 14 Assignment.
+This is a sample text file used to verify asynchronous file read operations.
+Asynchronous execution resolves tasks concurrently without blocking the main event thread!

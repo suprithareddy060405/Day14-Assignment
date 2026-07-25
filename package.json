@@ -1,0 +1,14 @@
+{
+  "name": "day14-assignment",
+  "version": "1.0.0",
+  "description": "Day 14 Node.js Core Backend Assignment",
+  "main": "mini_projects/backend_server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node mini_projects/backend_server.js",
+    "test-server": "node mini_projects/backend_server.js",
+    "system-info": "node mini_projects/system_info.js",
+    "note-saver": "node mini_projects/note_saver.js"
+  },
+  "dependencies": {}
+}
